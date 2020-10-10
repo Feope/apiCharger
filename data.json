@@ -1,0 +1,144 @@
+{
+    "content": [
+        {
+            "id": 0,
+            "name": "UTSJOKI",
+            "type": "fast",
+            "status": "free",
+            "price": 18
+        },
+        {
+            "id": 1,
+            "name": "SEVETTIJÄRVI",
+            "type": "fast",
+            "status": "free",
+            "price": 18
+        },
+        {
+            "id": 2,
+            "name": "PARTAKKO",
+            "type": "fast",
+            "status": "free",
+            "price": 18
+        },
+        {
+            "id": 3,
+            "name": "ANGELI",
+            "type": "slow",
+            "status": "free",
+            "price": 20
+        },
+        {
+            "id": 4,
+            "name": "KAKSLAUTTANEN",
+            "type": "slow",
+            "status": "free",
+            "price": 20
+        },
+        {
+            "id": 5,
+            "name": "MUNNIKURKKIO",
+            "type": "fast",
+            "status": "taken",
+            "price": 18
+        },
+        {
+            "id": 6,
+            "name": "KILPISJÄRVI",
+            "type": "fast",
+            "status": "free",
+            "price": 18
+        },
+        {
+            "id": 7,
+            "name": "KARESUVANTO",
+            "type": "fast",
+            "status": "free",
+            "price": 18
+        },
+        {
+            "id": 8,
+            "name": "KITTILÄ",
+            "type": "slow",
+            "status": "free",
+            "price": "free"
+        },
+        {
+            "id": 9,
+            "name": "SAVUKOSKI",
+            "type": "slow",
+            "status": "free",
+            "price": 20
+        },
+        {
+            "id": 10,
+            "name": "SALLA",
+            "type": "slow",
+            "status": "free",
+            "price": 20
+        },
+        {
+            "id": 11,
+            "name": "ROVANIEMI",
+            "type": "fast",
+            "status": "free",
+            "price": 18
+        },
+        {
+            "id": 12,
+            "name": "KIVITAIPALE",
+            "type": "slow",
+            "status": "taken",
+            "price": "free"
+        },
+        {
+            "id": 13,
+            "name": "RANUA",
+            "type": "fast",
+            "status": "free",
+            "price": 18
+        },
+        {
+            "id": 14,
+            "name": "II",
+            "type": "fast",
+            "status": "free",
+            "price": 18
+        },
+        {
+            "id": 15,
+            "name": "HAUKIPUDAS",
+            "type": "fast",
+            "status": "free",
+            "price": 18
+        },
+        {
+            "id": 16,
+            "name": "MUSTARINTA",
+            "type": "slow",
+            "status": "taken",
+            "price": 20
+        },
+        {
+            "id": 17,
+            "name": "KALAJOKI",
+            "type": "fast",
+            "status": "free",
+            "price": 18
+        },
+        {
+            "id": 18,
+            "name": "IISALMI",
+            "type": "fast",
+            "status": "free",
+            "price": 18
+        },
+        {
+            "id": 19,
+            "name": "LEMI",
+            "type": "fast",
+            "status": "free",
+            "price": 0
+        }
+    ]
+}
